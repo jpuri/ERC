@@ -1,1 +1,1 @@
-# ERC-20 Implementations
+ERC-20 Implementation
