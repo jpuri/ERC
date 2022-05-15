@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity >=0.4.21 < 0.7.0;
+pragma solidity 0.8.13;
 
 contract ERC20 {
     string _name = "ERC20 Token";
